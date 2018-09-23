@@ -9,6 +9,8 @@
 
 ### Demo Site: [Sooon]
 
+https://emmasimeon.github.io/CoolAdmin/
+
 ### TOC
 - [Built With](#built-with)
 - [Changelog](#changelog)
